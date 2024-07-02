@@ -2,7 +2,6 @@
 layout: page
 title: 关于我
 permalink: /about/
-image: 01.jpg
 ---
 
 Hi, 以下是我的简历
